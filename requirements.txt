@@ -1,0 +1,24 @@
+
+---
+
+# requirements.txt
+
+```txt
+torch
+torchvision
+torchaudio
+
+numpy
+pandas
+matplotlib
+seaborn
+
+scikit-learn
+opencv-python
+
+tqdm
+
+ultralytics
+
+Pillow
+PyYAML
